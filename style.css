@@ -1,0 +1,24 @@
+#home{
+    margin-left: 50%;
+    display: flex;
+    gap: 20%;
+}
+#header{
+    display: flex;
+    gap: 20%;
+}
+#pinterest{
+    display: flex;
+    gap: 20%;
+}
+#over{
+    .overlayFade { 
+        height: 250px; 
+        width: 250px; 
+        top: 0; 
+        left: 75px; 
+        background-color: #9bcd9b;}
+    }
+    #idea{
+        margin-left: 30%;
+    }
